@@ -12,7 +12,7 @@ O grupo foi reunido em um grupo no WhatsApp e fizemos uma reunião online via Go
 Para auxílio recorreu-se a pesquisa no documento na página web: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript para tirarmos dúvidas de como usar a linguagem.
 Segundo esse mesmo documento, JavaScript é uma linguagem leve, interpretada e orientada a objetos com funções de primeira classe, que é mais conhecida como uma linguagem de script para páginas web. Porém, a linguagem também é usada em ambientes sem browser.  
 No total foram 3 reuniões online via Meet para discutirmos sobre o desafio. Também fizemos uma breve apresentação nossa para nos conhecermos melhor.
-<br/>
+<br/><br/>
 Instruções para utilizar a aplicação:
 <br/>
 para garantir a instalação de todas as dependências:
